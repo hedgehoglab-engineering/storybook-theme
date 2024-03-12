@@ -1,0 +1,22 @@
+{
+    "name": "@hedgehoglab/storybook-theme",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@storybook/addons": "^7.6.17",
+        "@storybook/theming": "^8.0.0"
+    },
+    "repository": {
+        "url": "https://github.com/hedgehoglab-engineering/storybook-theme"
+    },
+    "author": {
+        "name": "Sam Turrell",
+        "url": "https://samturrell.co.uk",
+        "email": "sam.turrell@hedgehoglab.com"
+    },
+    "files": [
+        "src/index.js",
+        "src/logo.svg"
+    ]
+}

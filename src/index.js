@@ -1,5 +1,5 @@
 import { create, color, typography } from 'storybook/theming';
-import { addons } from '@storybook/addonss';
+import { addons } from '@storybook/addons';
 import brandImage from './logo.svg';
 
 const theme = create({

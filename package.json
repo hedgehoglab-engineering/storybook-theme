@@ -4,7 +4,7 @@
     "main": "src/index.js",
     "license": "MIT",
     "dependencies": {
-        "storybook": "^9.0.0"
+        "storybook": "^10.4.0"
     },
     "repository": {
         "url": "https://github.com/hedgehoglab-engineering/storybook-theme"
